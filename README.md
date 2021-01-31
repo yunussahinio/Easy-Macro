@@ -5,4 +5,4 @@ python -m pip install -r requirements.txt
 python main.py
 
 
-![alt text](https://github.com/yunussahinio/Easy-Macro/screen1.jpg?raw=true)
+![alt text](https://github.com/yunussahinio/Easy-Macro/blob/master/screen1.jpg?raw=true)
