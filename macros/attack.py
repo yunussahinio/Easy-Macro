@@ -41,7 +41,7 @@ class Macro(object):
                 else:
                     print("resim bulunamadı")
                 time.sleep(0.1)   
-            #endregion
+            
             
             #askerleri düzenler
             templates = ["hearth.png"]
